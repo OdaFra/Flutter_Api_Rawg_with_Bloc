@@ -1,3 +1,4 @@
+import 'model_barrel.dart';
 import 'package:json_annotation/json_annotation.dart';
 
 part 'filters_year.g.dart';
