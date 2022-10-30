@@ -8,6 +8,7 @@
 .flutter-plugins
 .flutter-plugins-dependencies
 .fvm/
+.idea/
 .packages
 .pub-cache/
 .pub/
