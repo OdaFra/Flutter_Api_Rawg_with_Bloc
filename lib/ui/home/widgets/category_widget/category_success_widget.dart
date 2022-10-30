@@ -5,7 +5,9 @@ import 'package:flutter_bloc_rawg_api/ui/home/widgets/category_widget/category_i
 import 'package:flutter_bloc_rawg_api/ui/home/widgets/category_widget/logic/category_bloc.dart';
 
 class CategoriesSuccessWidget extends StatelessWidget {
-  const CategoriesSuccessWidget({super.key});
+  const CategoriesSuccessWidget({
+    Key? key,
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
